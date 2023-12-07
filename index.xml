@@ -13,7 +13,11 @@
       <pubDate>Thu, 07 Dec 2023 14:49:49 +0200</pubDate>
       
       <guid>https://TadasVai.github.io/posts/newpost/</guid>
-      <description>Laba diena pasauli!!!!!!!!</description>
+      <description>Laba diena Destytojau!!!!!!
+Kodo citata:
+TypeScript const Home: React.FC = () =&amp;gt; {
+return ( Noriu 10!!!!!!! ) };
+export default Home;</description>
     </item>
     
   </channel>
